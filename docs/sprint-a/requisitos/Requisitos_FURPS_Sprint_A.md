@@ -68,7 +68,7 @@ Os requisitos de suportabilidade estão relacionados com a manutenção, evoluç
 
 Esta categoria identifica as restrições técnicas e condições adicionais consideradas para o desenvolvimento da plataforma.
 
-- **R+01 — Tecnologias:** O frontend será desenvolvido com React.
+- **R+01 — Tecnologias:** O frontend será desenvolvido com HTML, CSS e JavaScript.
 - **R+02 — Backend:** O backend será desenvolvido em Python, utilizando Flask.
 - **R+03 — Base de dados:** A plataforma deverá utilizar uma base de dados para armazenar utilizadores, conteúdos, atividades, inscrições e restantes informações necessárias.
 - **R+04 — Arquitetura:** A aplicação deverá separar o frontend, o backend e a camada de armazenamento de dados.
